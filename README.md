@@ -1,4 +1,4 @@
-# Learn Design Patterns in Java with CodePumpkin
+# SQL Scripts | CodePumpkin
 
 This repository is for maintaing SQL scripts for all the SQL articles written at **[codepumpkin.com](http://codepumpkin.com)**
 
